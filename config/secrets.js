@@ -28,8 +28,8 @@ module.exports = {
   },
   
   mandrill: {
-    login: process.env.MANDRILL_LOGIN || 'hackathonstarterdemo',
-    password: process.env.MANDRILL_PASSWORD || 'E1K950_ydLR4mHw12a0ldA'
+    login: process.env.MANDRILL_LOGIN || 'app25677310@heroku.com',
+    password: process.env.MANDRILL_PASSWORD || 'X5CdptSdlCJrc1AAPaYjJw'
   },
 
   sendgrid: {
